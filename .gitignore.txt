@@ -6,3 +6,14 @@
 *.cache
 *.db
 *.opendb
+*.ipch
+*.pdb
+*.obj
+*.ilk
+*.log
+*.tlog
+*.dll
+*.exe
+*.lib
+*.ncb
+*.sdf
