@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\aayus\OneDrive\Documents\Mr.Lube Software\main.cpp(42,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  2 of 183 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Mr.Lube Software.vcxproj -> C:\Users\aayus\OneDrive\Documents\Mr.Lube Software\x64\Release\Mr.Lube Software.exe
+  C:\mysql-connector-c++-9.1.0-winx64\lib64\libcrypto-3-x64.dll
+  C:\mysql-connector-c++-9.1.0-winx64\lib64\libssl-3-x64.dll
+  C:\mysql-connector-c++-9.1.0-winx64\lib64\mysqlcppconn-10-vs14.dll
+  C:\mysql-connector-c++-9.1.0-winx64\lib64\mysqlcppconnx-2-vs14.dll
+  4 File(s) copied

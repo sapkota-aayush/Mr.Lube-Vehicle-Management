@@ -13,6 +13,8 @@ using namespace std;
 */
 
 bool isValidInput(const string& input);
+bool isValidLiscencePlate(const string& plate);
+bool isValidProvince(const string& province);
 
 
 #endif // !UTILITY_H
